@@ -15,9 +15,20 @@ Welcome! This is a mod I made as a moving present for a friend who went to live 
 * There is a small chance that a **laser kiwi** will spawn instead of a normal one. Watch out.
 * Just like real life, kiwi birds are **vulnerable to invasive predators**. Don't let your pet cats get too close!
 
+### CREDITS
+
+* Created by Jagm!
+* Translations:
+  * **简体中文** (Chinese, Simplified): Nuttar2004
+  * **繁體中文** (Chinese, Traditional): Lobster0228
+  * **Français** (French): Jagm
+  * **Русский** (Russian): itsrec0very
+  * **toki pona** (Toki Pona): Jagm
+
+If you want to help translate the mod into another language, get in touch with me on Discord (jagm) or submit a pull request [on Github](https://github.com/J4gm/jagmkiwis-multiloader).
+
 ### NOTES
 
 * This mod is available for Forge, NeoForge, and Fabric!
 * You have permission to use this mod in mod packs. Refer to the license for other questions about distribution.
 * The source code and issue tracker are available [on Github](https://github.com/J4gm/jagmkiwis-multiloader).
-* If you want to follow me on social media, check out [my Tumblr](https://www.tumblr.com/j4gm) or [Bluesky](https://j4gm.bsky.social).
