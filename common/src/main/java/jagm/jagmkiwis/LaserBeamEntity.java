@@ -7,6 +7,7 @@ import net.minecraft.util.Mth;
 import net.minecraft.world.damagesource.DamageSource;
 import net.minecraft.world.entity.Entity;
 import net.minecraft.world.entity.EntityType;
+import net.minecraft.world.entity.EntityTypes;
 import net.minecraft.world.entity.LivingEntity;
 import net.minecraft.world.entity.projectile.arrow.AbstractArrow;
 import net.minecraft.world.item.ItemStack;
@@ -67,7 +68,7 @@ public class LaserBeamEntity extends AbstractArrow {
             }
         }
         if (this.level() instanceof ServerLevel serverLevel) {
-            boolean flag = target.getType() == EntityType.ENDERMAN;
+            boolean flag = target.getType() == EntityTypes.ENDERMAN;
             if (target.hurtServer(serverLevel, damagesource, (float) i)) {
                 if (flag) {
                     return;
