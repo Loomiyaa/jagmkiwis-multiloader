@@ -1,0 +1,19 @@
+{
+	"entity.jagmkiwis.kiwi": "Птица киви",
+	"entity.jagmkiwis.laser_beam": "Лазерный луч",
+	"entity.jagmkiwis.kiwi_egg": "Яйцо киви",
+	"item.jagmkiwis.kiwi_spawn_egg": "Яйцо призыва киви",
+	"item.jagmkiwis.kiwi_fruit": "Киви",
+	"item.jagmkiwis.kiwi_egg": "Яйцо киви",
+	"item.jagmkiwis.pavlova": "Десерт Павлова",
+	"jagmkiwis.subtitle.kiwi_ambient": "Киви зовет",
+	"jagmkiwis.subtitle.kiwi_hurt": "Киви ранен",
+	"jagmkiwis.subtitle.kiwi_death": "Киви погибает",
+	"jagmkiwis.subtitle.kiwi_lay_egg": "Киви снесла яйцо",
+	"jagmkiwis.subtitle.kiwi_dig": "Киви копает",
+	"jagmkiwis.subtitle.laser_shoot": "Пиу!",
+	"tag.item.c.drinks.milk": "Молоко",
+	"tag.item.c.foods.fruit/kiwi": "Киви",
+	"tag.item.c.foods.fruits/kiwi": "Киви",
+	"tag.item.jagmkiwis.pavlova_toppings": "Начинка Павлова"
+}
