@@ -1,0 +1,19 @@
+{
+	"entity.jagmkiwis.kiwi": "Kiwivogel",
+	"entity.jagmkiwis.laser_beam": "Laserstrahl",
+	"entity.jagmkiwis.kiwi_egg": "Kiwi-Ei",
+	"item.jagmkiwis.kiwi_spawn_egg": "Kiwivogel-Spawn-Ei",
+	"item.jagmkiwis.kiwi_fruit": "Kiwifrucht",
+	"item.jagmkiwis.kiwi_egg": "Kiwi-Ei",
+	"item.jagmkiwis.pavlova": "Pavlova",
+	"jagmkiwis.subtitle.kiwi_ambient": "Kiwi ruft",
+	"jagmkiwis.subtitle.kiwi_hurt": "Kiwi verletzt",
+	"jagmkiwis.subtitle.kiwi_death": "Kiwi stirbt",
+	"jagmkiwis.subtitle.kiwi_lay_egg": "Kiwi ploppt",
+	"jagmkiwis.subtitle.kiwi_dig": "Kiwi wühlt",
+	"jagmkiwis.subtitle.laser_shoot": "Zapp!",
+	"tag.item.c.drinks.milk": "Milch",
+	"tag.item.c.foods.fruit/kiwi": "Kiwifrüchte",
+	"tag.item.c.foods.fruits/kiwi": "Kiwifrüchte",
+	"tag.item.jagmkiwis.pavlova_toppings": "Pavlova-Beläge"
+}
